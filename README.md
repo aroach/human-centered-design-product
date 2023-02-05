@@ -15,3 +15,6 @@ Jobs Theory
 - http://www.whencoffeeandkalecompete.com
 
 Lean
+
+- The Lean Startup - https://theleanstartup.com
+- https://tanzu.vmware.com/developer/practices/lean-experiments/
