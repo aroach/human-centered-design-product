@@ -8,6 +8,7 @@ A collection of resources for folks who are interested in learning more about Hu
 - Instructions on how to use Opportunity Solution Trees:
   - https://www.producttalk.org/opportunity-solution-tree/
   - https://www.joerinaldijohnson.com/posts/a-guide-to-using-opportunity-solution-trees-for-product-discovery
+- GitLab Description of Product Development Flow - https://about.gitlab.com/handbook/product-development-flow/
 
 ## Jobs Theory
 
