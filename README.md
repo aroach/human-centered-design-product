@@ -18,3 +18,9 @@ Lean
 
 - The Lean Startup - https://theleanstartup.com
 - https://tanzu.vmware.com/developer/practices/lean-experiments/
+
+Sign up for the [Cisco U. waiting list](https://mkto.cisco.com/ciscou-ea.html?utm_campaign=ciscou-ea&utm_source=ciscoliveemea&utm_medium=ghpages).
+
+Contact asroach at cisco dot com for questions.
+
+
